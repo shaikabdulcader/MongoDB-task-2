@@ -19,7 +19,3 @@ It has Guvi-Zen class Roadmap session: Day-36 and Database : MongoDB : Day-4 Tas
 ## Screenshots
 
 ![App Screenshot](./Images/demo.png)
-
-## Feedback
-
-If you have any feedback, please reach out to me at vijaymayhul@gmail.com
